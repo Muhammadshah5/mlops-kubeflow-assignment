@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.vscode/
+.env
+.venv/
+.dvc/cache/
+data/raw/*.csv
+model.joblib

@@ -1,0 +1,9 @@
+kfp>=2.0.0
+dvc>=2.0.0
+scikit-learn>=1.0
+pandas>=1.3
+numpy>=1.21
+kubernetes>=12.0.0
+docker>=5.0.0
+pyyaml
+joblib
