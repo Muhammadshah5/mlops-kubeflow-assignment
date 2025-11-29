@@ -1,4 +1,6 @@
 [core]
-    remote = gdrive
+    remote = myremote
 ['remote "gdrive"']
     url = gdrive://root/mlops-dvc
+['remote "myremote"']
+    url = /Users/omgitsshahg/dvc_remote
