@@ -1,0 +1,6 @@
+artifact_location: file:///Users/omgitsshahg/mlops-kubeflow-assignment/mlflow_pipeline/mlruns/595321282163449077
+creation_time: 1764423958387
+experiment_id: '595321282163449077'
+last_update_time: 1764423958387
+lifecycle_stage: active
+name: California Housing Pipeline

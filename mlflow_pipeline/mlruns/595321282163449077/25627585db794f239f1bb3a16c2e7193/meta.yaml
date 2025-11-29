@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/omgitsshahg/mlops-kubeflow-assignment/mlflow_pipeline/mlruns/595321282163449077/25627585db794f239f1bb3a16c2e7193/artifacts
+end_time: 1764423963266
+entry_point_name: ''
+experiment_id: '595321282163449077'
+lifecycle_stage: active
+run_id: 25627585db794f239f1bb3a16c2e7193
+run_name: pipeline_run_20251129_184558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764423958506
+status: 3
+tags: []
+user_id: omgitsshahg
